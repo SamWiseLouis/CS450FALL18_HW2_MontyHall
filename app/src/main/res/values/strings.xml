@@ -9,6 +9,14 @@
     <string name="about">
         This is St. Lawrence University CS450
         Implementation of the Monty Hall Game.
+
+        Cited sources (covered under fair use):
+        song: Inital-D Deja Vu by Dave Rodgers
+        car image: Inital-D Anime opening scene
+        goat sound: http://soundbible.com/tags-billy-goat.html
+        Other sources
+        rotation animation: https://stackoverflow.com/questions/12882967/rotate-animation-android
+        gradient setup: https://stackoverflow.com/questions/7441857/how-to-make-a-gradient-background-for-a-linearlayout
     </string>
     <string name="about_title_text">About the Monty Hall Problem</string>
     <string name="ok">OK</string>
